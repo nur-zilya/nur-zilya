@@ -20,8 +20,8 @@
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
   
-  [🏆 Stepik ertificate (C++):](https://stepik.org/cert/1873756)
-  [🏆 Stepik ertificate (Excel):](https://stepik.org/cert/1908401)
+  [🏆 Stepik certificate (C++):](https://stepik.org/cert/1873756)
+  [🏆 Stepik certificate (Excel):](https://stepik.org/cert/1908401)
    
 
   Contact info:
