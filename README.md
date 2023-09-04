@@ -6,11 +6,7 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  <a href="https://leetcode.com/nuretdinovazi/">
-  <img alt="Leetcode" width="50px" height="50px" align="center" src="https://user-images.githubusercontent.com/94602550/189644450-3efed295-1635-49d9-bc96-5f8cc80a2d2b.png" >
-  </a>
-
-
+ 
   Skills in:
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
