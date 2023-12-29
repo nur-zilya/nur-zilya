@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Zilya </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Text mining student in Kazan Federal University, interested in Data analysis, engineering, NLP </h3>
+<h3 align="center">Performance Engineer in Sber, Text mining student in Kazan Federal University, interested in Data analysis, engineering, NLP </h3>
 
   Languages:
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
